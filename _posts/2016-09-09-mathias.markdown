@@ -2,6 +2,7 @@
 layout: post
 title:  "Mathias Payer Faculty Card"
 category: facultycard
+date: 2016-08-09 18:00:00
 ---
 
 #### [Mathias Payer](https://www.cs.purdue.edu/people/faculty/mpayer/) ####

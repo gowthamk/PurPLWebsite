@@ -2,6 +2,7 @@
 layout: post
 title:  "Samuel Midkiff Faculty Card"
 category: facultycard
+date: 2016-08-09 19:00:00
 ---
 
 #### [Samuel Midkiff](https://www.cs.purdue.edu/homes/xyzhang/) ####

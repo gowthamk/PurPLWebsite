@@ -2,6 +2,7 @@
 layout: post
 title:  "Zhiyuan Li Faculty Card"
 category: facultycard
+date: 2016-08-09 20:00:00
 ---
 
 #### [Zhiyuan Li](https://www.cs.purdue.edu/homes/ci/) ####
