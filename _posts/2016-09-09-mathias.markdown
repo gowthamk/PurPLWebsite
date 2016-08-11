@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Mathias Payer Faculty Card"
+category: facultycard
+---
+
+#### [Mathias Payer](https://www.cs.purdue.edu/people/faculty/mpayer/) ####
+
+![Mathias Payer](assets/mathias.jpg)
+Dynamic, static and binary program analysis, 
+Debugging, 
+System security, 
+Forensics, 
+Android and iOS security, and 
+Improving effectiveness and robustness of data processing.

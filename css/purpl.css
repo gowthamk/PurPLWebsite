@@ -94,6 +94,7 @@ div.facultycard img {
 ul#student-stamps {
   list-style-type:none;
   list-style-position:inside;
+  width:90%;
 }
 li.student-stamp {
   float:left;
@@ -112,10 +113,13 @@ span.student-name {
   position: absolute;
   left:0;
   right:0;
-  bottom:10px;
+  bottom:0;
   z-index:100;
   font-weight:bold;
   padding:10px;
   background-color:rgba(0, 0, 0, 0.4);
   line-height: 0.5;
+}
+ul#student-stamps p {
+  margin:0px;
 }
