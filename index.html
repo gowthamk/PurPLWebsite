@@ -45,13 +45,10 @@ layout: default
 
 <div class="container">
   <h4>Post-docs and grad students</h4>
-  <ul id="student-cards">
-    {% for post in site.categories.studentcard %}
-      <li class="student-photo">
-      <a href="assets/{{ post.title }}">
-          <img src="">
-          <span class="student-name">{{ post.content }}</span>
-        </a>
+  <ul id="student-stamps">
+    {% for post in site.categories.studentstamp %}
+      <li class="student-stamp">
+        {{ post.content }}
       </li>
     {% endfor %}
   </div>

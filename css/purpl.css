@@ -91,3 +91,31 @@ div.facultycard img {
   margin: auto;
   border-radius: 20px;
 }
+ul#student-stamps {
+  list-style-type:none;
+  list-style-position:inside;
+}
+li.student-stamp {
+  float:left;
+  text-align:center;
+  position:relative;
+  overflow:hidden;
+}
+li.student-stamp :hover {
+  text-decoration:underline;
+}
+li.student-stamp img {
+  width: 120px;
+  height:120px;
+}
+span.student-name {
+  position: absolute;
+  left:0;
+  right:0;
+  bottom:10px;
+  z-index:100;
+  font-weight:bold;
+  padding:10px;
+  background-color:rgba(0, 0, 0, 0.4);
+  line-height: 0.5;
+}
