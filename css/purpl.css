@@ -48,8 +48,8 @@ div#about-purpl {
   width:700px;
   padding: 0px 5px;
 }
-div#news-roll {
-  height:400px;
+ul#news-roll {
+  height:350px;
   overflow-y:scroll;
   border: 2px solid black;
   padding-top: 5px;
