@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "News"
+category: news
+---
+
++ [08-09-2016] PurPL is [Programming Languages](#people) and Software
+  Engineering research group at Purdue CS. Lorem ipsum dolor sit amet,
+  consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+  labore et dolore magna aliqua.
+
++ [08-09-2016] PurPL is [Programming Languages](#people) and Software
+  Engineering research group at Purdue CS. Lorem ipsum dolor sit amet,
+  consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+  labore et dolore magna aliqua.
+
++ [08-09-2016] PurPL is [Programming Languages](#people) and Software
+  Engineering research group at Purdue CS. Lorem ipsum dolor sit amet,
+  consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+  labore et dolore magna aliqua.
+
++ [08-09-2016] PurPL is [Programming Languages](#people) and Software
+  Engineering research group at Purdue CS. Lorem ipsum dolor sit amet,
+  consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+  labore et dolore magna aliqua.
+
++ [08-09-2016] PurPL is [Programming Languages](#people) and Software
+  Engineering research group at Purdue CS. Lorem ipsum dolor sit amet,
+  consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+  labore et dolore magna aliqua.
+
++ [08-09-2016] PurPL is [Programming Languages](#people) and Software
+  Engineering research group at Purdue CS. Lorem ipsum dolor sit amet,
+  consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+  labore et dolore magna aliqua.

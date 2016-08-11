@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Milind Kulkarni Faculty Card"
+category: facultycard
+---
+
+#### [Milind Kulkarni](https://www.cs.purdue.edu/homes/xyzhang/) ####
+
+![Milind Kulkarni](assets/milind.jpeg)
+Automatically optimizing irregular applications,
+Optimizing computational science applications by exploiting semantics,
+Detecting and diagnosing bugs in large-scale distributed systems,
+Effective computation offloading.

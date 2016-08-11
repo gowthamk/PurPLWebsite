@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Roopsha Samanta Faculty Card"
+category: facultycard
+---
+
+#### [Roopsha Samanta](https://www.cs.purdue.edu/homes/xyzhang/) ####
+
+![Roopsha Samanta](assets/roopsha.jpg)
+Program verification, analysis, repair and synthesis,
+Computer-aided concurrent programming,
+Reasoning about robustness of systems,
+Program repair and synthesis for education.

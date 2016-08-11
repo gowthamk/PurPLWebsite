@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Samuel Midkiff Faculty Card"
+category: facultycard
+---
+
+#### [Samuel Midkiff](https://www.cs.purdue.edu/homes/xyzhang/) ####
+
+![Samuel Midkiff](assets/midkiff.jpg)
+Dynamic, static and binary program analysis, 
+Debugging, 
+System security, 
+Forensics, 
+Android and iOS security, and 
+Improving effectiveness and robustness of data processing.

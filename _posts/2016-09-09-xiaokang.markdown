@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Xiaokang Qiu Faculty Card"
+category: facultycard
+---
+
+#### [Xiaokang Qiu](https://www.cs.purdue.edu/homes/xyzhang/) ####
+
+![Xiaokang Qiu](assets/xiaokang.jpeg)
+Theories, algorithms and tools of Programming Systems, including
+program logics, decision procedures, automated deduction, program
+verification, and program synthesis.

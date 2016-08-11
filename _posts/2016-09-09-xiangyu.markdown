@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Xiangyu Zhang Faculty Card"
+category: facultycard
+---
+
+#### [Xiangyu Zhang](https://www.cs.purdue.edu/homes/xyzhang/) ####
+
+![Xiangyu Zhang](assets/xiangyu.jpg)
+Dynamic, static and binary program analysis, 
+Debugging, 
+System security, 
+Forensics, 
+Android and iOS security, and 
+Improving effectiveness and robustness of data processing.

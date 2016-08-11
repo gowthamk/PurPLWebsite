@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Tiark Rompf Faculty Card"
+category: facultycard
+---
+
+#### [Tiark Rompf](https://tiarkrompf.github.io/) ####
+
+![Tiark Rompf](assets/tiark.png)
+program verification,
+program analysis,
+dependent and refinement type systems,
+machine learning applied to program analysis,
+abstractions for parallel and distributed computing,
+memory models,
+verifying compilation.
