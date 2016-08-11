@@ -28,7 +28,8 @@ span.purple{
   color:#9216AB;
 }
 div.purpl-navbar {
-  width:700px;
+  /* width:700px; */
+  width:400px;
   margin: 2px auto;
   overflow:auto;
 }
@@ -122,4 +123,11 @@ span.student-name {
 }
 ul#student-stamps p {
   margin:0px;
+}
+div#courses-table {
+  width:90%;
+  margin:auto;
+}
+div#joinus-info {
+  margin-left:30px;
 }
