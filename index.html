@@ -44,5 +44,15 @@ layout: default
 </div>
 
 <div class="container">
-    <h4>Post-docs and grad students</h4>
+  <h4>Post-docs and grad students</h4>
+  <ul id="student-cards">
+    {% for post in site.categories.studentcard %}
+      <li class="student-photo">
+      <a href="assets/{{ post.title }}">
+          <img src="">
+          <span class="student-name">{{ post.content }}</span>
+        </a>
+      </li>
+    {% endfor %}
+  </div>
 </div>

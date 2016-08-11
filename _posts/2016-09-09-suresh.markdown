@@ -6,7 +6,7 @@ category: facultycard
 
 #### [Suresh Jagannathan](https://www.cs.purdue.edu/homes/suresh/) ####
 
-![Suresh Jagannathan](assets/suresh.jpg)
+![Suresh Jagannathan](assets/suresh.png)
 program verification,
 program analysis,
 dependent and refinement type systems,
