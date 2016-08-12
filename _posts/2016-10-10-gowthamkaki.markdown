@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Gowtham Kaki"
-category: student
+category: studentstamp
 ---
 <a href="http://gowthamk.github.io/">
   <img src="assets/gowtham.jpg" alt="Gowtham Kaki">
