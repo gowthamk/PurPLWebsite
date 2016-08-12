@@ -11,6 +11,7 @@ category: joinus
 
 
 #### Prospective Students ###
-+ Apply to our
++ Apply to CS
   [graduate](https://www.cs.purdue.edu/graduate/index.html) or
   [undergraduate](https://www.cs.purdue.edu/future-students/index.html) program.
++ Apply to ECE [graduate](https://engineering.purdue.edu/ECE/InfoFor/ProspectiveStudents) or [undergraduate](https://engineering.purdue.edu/ECE/InfoFor/ProspectiveStudents) program.
