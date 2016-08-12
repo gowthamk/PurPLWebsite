@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Gowtham Kaki"
+title:  "Kia Rahmani"
 category: studentstamp
 ---
 <a href="http://gowthamk.github.io/">
