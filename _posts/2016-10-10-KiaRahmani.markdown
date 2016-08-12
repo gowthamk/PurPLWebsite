@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Kia Rahmani"
+title:  "Gowtham Kaki"
 category: studentstamp
 ---
 <a href="https://github.com/kiarahmani">
-<img src="assets/gowtham.jpg" alt="Gowtham Kaki">
+<img src="assets/kia.jpg" alt="Kia Rahmani">
 <span class="student-name">Kia Rahmani</span>
 </a>
