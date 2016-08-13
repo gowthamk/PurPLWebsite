@@ -5,10 +5,11 @@ category: facultycard
 date: 2016-08-09 15:00:00
 ---
 
-#### [Roopsha Samanta](https://www.cs.purdue.edu/homes/xyzhang/) ####
+#### [Roopsha Samanta](https://www.cs.purdue.edu/homes/roopsha/) ####
 
 ![Roopsha Samanta](assets/roopsha.jpg)
-Program verification, analysis, repair and synthesis,
-Computer-aided concurrent programming,
-Reasoning about robustness of systems,
-Program repair and synthesis for education.
+Program verification, analysis, repair and synthesis: 
+
+Current projects: computer-aided concurrent programming,
+reasoning about robustness of systems,
+program repair and synthesis for education.
