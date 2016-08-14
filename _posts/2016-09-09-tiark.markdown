@@ -7,11 +7,10 @@ date: 2016-08-09 16:00:00
 
 #### [Tiark Rompf](https://tiarkrompf.github.io/) ####
 
-![Tiark Rompf](assets/tiark.png)
-program verification,
-program analysis,
-dependent and refinement type systems,
-machine learning applied to program analysis,
-abstractions for parallel and distributed computing,
-memory models,
-verifying compilation.
+![Tiark Rompf](assets/tiark.jpg)
+metaprogramming for performance and safety, 
+Scala, 
+type systems,
+PL techniques for big data,
+machine learning, hardware,
+software-defined anything
