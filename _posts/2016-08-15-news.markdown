@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "News"
+category: news
+date: 2016-08-13 10:00:00
+---
+
+**[08-15-2016]** Roopsha Samanta is offering a graduate seminar on
+Computer-Aided Program Reasoning.

@@ -51,7 +51,7 @@ div#about-purpl {
 ul#news-roll {
   height:350px;
   overflow-y:scroll;
-  border: 2px solid black;
+  border: 1px solid #A9A9A9;
   padding-top: 5px;
   padding-bottom: 5px;
   padding-right: 5px;
@@ -130,4 +130,10 @@ div#courses-table {
 }
 div#joinus-info {
   margin-left:30px;
+}
+div#about-purpl h4 {
+  font-weight: normal;
+}
+div#faculty-cards {
+    margin-top: 20px;
 }
