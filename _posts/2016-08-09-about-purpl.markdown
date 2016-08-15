@@ -1,14 +1,7 @@
 ---
 layout: post
-title:  "About Purpl"
+title:  "10 Faculty. 2 Departments. 1 Mission. Infinite Possibilites: PL Research at Purdue."
 category: aboutpurpl
 ---
 
-PurPL is Programming Languages and Software Engineering research
-group at Purdue CS. Lorem ipsum dolor sit amet, consectetur adipiscing
-elit, sed do eiusmod tempor incididunt ut labore et dolore magna
-aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
-in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-culpa qui officia deserunt mollit anim id est laborum.
+PurPL is the cross-departmental umbrella group for programming languages research at Purdue University. PurPL research groups push the boundaries of every area in programming languages and software engineering: PL theory, language-based security, compiler optimizations, verification, program synthesis, and more. But we do more than just fundamental PL/SE research: we bring PL/SE ideas to bear on a wide range of areas, including big data, security, and computational science. 
