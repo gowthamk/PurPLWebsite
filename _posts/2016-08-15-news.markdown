@@ -5,5 +5,8 @@ category: news
 date: 2016-08-13 10:00:00
 ---
 
-**[08-15-2016]** Roopsha Samanta is offering a graduate seminar on
-Computer-Aided Program Reasoning.
+**[08-15-2016]** Roopsha Samanta is offering a new graduate seminar on
+[Computer-Aided Program Reasoning](https://www.cs.purdue.edu/homes/roopsha/capr.f16.html).
+
+**[08-15-2016]** PurPL welcomes three new faculty this Fall 2016: [Ben Delaware](http://people.csail.mit.edu/bendy/), 
+[Roopsha Samanta](https://www.cs.purdue.edu/homes/roopsha/) and [Xiaokang Qiu](http://people.csail.mit.edu/xkqiu/).
