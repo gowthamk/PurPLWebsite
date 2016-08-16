@@ -7,12 +7,3 @@ date: 2016-08-13 10:00:00
 
 **[08-15-2016]** Roopsha Samanta is offering a new graduate seminar on
 [Computer-Aided Program Reasoning](https://www.cs.purdue.edu/homes/roopsha/capr.f16.html).
-
-**[08-02-2016]** Two PurPL papers accepted at 
-[OOPSLA'16](http://2016.splashcon.org/track/splash-2016-oopsla#event-overview).
-
-**[05-10-2016]** Generate all the things! Tiark Rompf to 
-[keynote GPCE'16](http://conf.researchr.org/track/gpce-2016/gpce-2016-papers#Preliminary-Program)
-
-**[04-15-2016]** 
-Tiark Rompf receives an [NSF CAREER Award](http://nsf.gov/awardsearch/showAward?AWD_ID=1553471)
